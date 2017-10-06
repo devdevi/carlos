@@ -1,0 +1,37 @@
+/*Alinear al centro*/
+body{
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+.colorIni{
+	background-color: black
+}
+h1{
+	font-size: 50px;
+   	color:white;
+	font-family: 'Open Sans:800', sans-serif;
+}
+h3{
+	font-size: 30px;
+	font-family: 'Open Sans:600', sans-serif
+}
+h2{
+	font-family: 'Open Sans:600', sans-serif;
+    color:white;
+    padding-bottom: 10px;
+}
+p{
+	
+	text-align:justify-all;
+
+}
+.imag{
+	width: 720px
+}
+/*HAcerseparador*/
+.masInformacion{
+	
+	border-top:1px dotted gray;
+	/*buscar  types border css*/
+	padding-bottom: 20px
+}
